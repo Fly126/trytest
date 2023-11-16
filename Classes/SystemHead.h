@@ -1,0 +1,5 @@
+#include "AudioEngine.h"
+#include "reload.h"
+#define SOUND_KEY "sound_key"
+#define MUSIC_KEY "music_key"
+#define CSV_FILE_PATH "E:/cocos_example/resume/Resources/record.csv"
